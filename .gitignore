@@ -1,0 +1,32 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment and config files
+.env
+config.json
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# CSV exports or backups
+*.csv
+/backups/
+
+# Telegram bot data
+session*
